@@ -1,0 +1,28 @@
+{
+    "name": "weatherappnodejs",
+    "version": "1.0.0",
+    "description": "creating a weather nodejs app",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "thapa technical",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "connect-flash": "^0.1.1",
+        "express": "^4.17.1",
+        "express-session": "^1.17.1",
+        "iplocation": "^7.2.0",
+        "isset": "^1.0.4",
+        "js-alert": "^1.0.4",
+        "nodemon": "^2.0.6",
+        "path": "^0.12.7",
+        "popups": "^1.1.3",
+        "request-ip": "^2.1.3",
+        "requests": "^0.3.0",
+        "url": "^0.11.0"
+    },
+    "devDependencies": {}
+}
